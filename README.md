@@ -1,2 +1,3 @@
 # Curso_de_angular
- Primeiro repositorio de Angular
+ Primeiro repositório de Angular
+ Estou Aprendendo Angular!
